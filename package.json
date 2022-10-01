@@ -52,6 +52,7 @@
     "socket.io": "^4.5.1",
     "spotify-web-api-js": "^1.5.2",
     "styled-components": "^5.3.5",
+    "use-debounce": "^8.0.4",
     "web-vitals": "^2.1.4",
     "words-to-numbers": "^1.5.1"
   },
